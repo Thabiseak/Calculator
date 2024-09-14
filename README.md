@@ -1,7 +1,8 @@
 # A Fully Functional Calculator App Using React 
 
 This project was created by Thabiseak T.
-Live Demo (
+
+Live Demo (https://calculator-4z76yhpfp-thavanesanthabiseaks-projects.vercel.app)
 
 
 ## To install
